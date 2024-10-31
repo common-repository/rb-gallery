@@ -1,0 +1,33 @@
+
+h3.rb-gallery-h3 {
+    font-size:12px;
+}
+
+.rbgallery-custom .rbgallery-skin {
+    box-shadow: 0 0 50px #222;
+}
+.show-rbgallery-div {
+    display:none;
+}
+
+.wprb_album_group {
+    width:100%;
+}
+.wprb_album_single {
+    float: left;
+    width: 30%;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.wprb_album_single h3 {
+    font-size:90%;
+}
+
+.rbg_clear {
+    clear:both;
+}
+
+div.wprb_album_single > a > img {
+    width:  70%;
+}

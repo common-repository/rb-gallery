@@ -1,0 +1,10 @@
+
+.album_item {
+    border: 1px solid #e7e7e7;
+    padding:10px;
+}
+
+div.album_item > div > form > div > input {
+    width: 100%;
+}
+
